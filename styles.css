@@ -12,6 +12,7 @@ body {
     margin: auto 0;
     padding: .5em;
     height: 100%;
+    touch-action: manipulation;
 }
 
 .ben {
