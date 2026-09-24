@@ -19,6 +19,12 @@ body {
     font-family: Matemasie;
 }
 
+img {
+    height: 30vh;
+    margin: .5em;
+    border-radius: 25px;
+}
+
 button {
     font-size: 3em;
     background-color: orange;
